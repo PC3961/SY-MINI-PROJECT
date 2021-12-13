@@ -4,10 +4,15 @@ Examination Management System is a python based project. We have developed Exami
 Admin Module online exam system :
 <br />
 Group Management .
+<br />
 User Management.
+<br />
 Exam Management.
+<br />
 Question Management.
+<br />
 Student Management.
+<br />
 Result/Marks Management.
 ![Screenshot 2021-12-13 231702](https://user-images.githubusercontent.com/61386568/145862786-6dc13f1c-dc29-4709-b7a6-d1dd31741ade.jpg)
 ![Screenshot 2021-12-13 232350](https://user-images.githubusercontent.com/61386568/145863408-00a28e9d-0def-46fc-9829-2659f3e6901b.jpg)
