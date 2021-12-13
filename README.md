@@ -2,6 +2,7 @@
 Examination Management System is a python based project. We have developed Examination Management System using Python Django and SQLITE. The main modules available in this project are Marks/Reports  module which manages the functionality of Marks, Students is normally used for managing Students, Examinations contains all the functionality realted to Examinations, As we know Python Projects, are trending topics for academic python project development. So we had choosen python3 for developing Examination Management System. In this project we developed features for Marks/Reports, Students, Questions etc, which reduces the human efforts and increase the efficiency. Scope of python is growing day by day. We also develop Machine Learning Python projects also data science projects on python. This Python and Djaongo project on Examination Management System is a web based project and also its a Python Major Projects. If you need mini project on Examination Management System then we can develop it also according to you requirments Examination Management System is a simple python project for beginners, from which they can learn to develop web based python project. We will provide you full project source code and database of the python project, so you can setup it easily on your system and learn python programming
 ![Screenshot 2021-12-13 231134](https://user-images.githubusercontent.com/61386568/145862113-44afa751-94bb-46fb-9e75-ee472a81ae9b.jpg)
 Admin Module online exam system :
+<br />
 Group Management .
 User Management.
 Exam Management.
