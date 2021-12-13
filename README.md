@@ -15,12 +15,21 @@ Student Management.
 <br />
 Result/Marks Management.
 ![Screenshot 2021-12-13 231702](https://user-images.githubusercontent.com/61386568/145862786-6dc13f1c-dc29-4709-b7a6-d1dd31741ade.jpg)
+<br />
 ![Screenshot 2021-12-13 232350](https://user-images.githubusercontent.com/61386568/145863408-00a28e9d-0def-46fc-9829-2659f3e6901b.jpg)
+<br />
 Student Module online exam system :
+<br />
 Login.
+<br />
 SignUp.
+<br />
 Take Exam.
+<br />
 Reports.
+<br />
 Profile Management.
+<br />
 Result view.
+<br />
 ![Screenshot 2021-12-13 232036](https://user-images.githubusercontent.com/61386568/145863421-595cf21d-6725-409b-8525-2a0068e41425.jpg)
