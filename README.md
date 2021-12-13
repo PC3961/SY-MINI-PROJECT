@@ -3,33 +3,33 @@ Examination Management System is a python based project. We have developed Exami
 ![Screenshot 2021-12-13 231134](https://user-images.githubusercontent.com/61386568/145862113-44afa751-94bb-46fb-9e75-ee472a81ae9b.jpg)
 Admin Module online exam system :
 <br />
-Group Management .
+1.Group Management .
 <br />
-User Management.
+2.User Management.
 <br />
-Exam Management.
+3.Exam Management.
 <br />
-Question Management.
+4.Question Management.
 <br />
-Student Management.
+5.Student Management.
 <br />
-Result/Marks Management.
+6.Result/Marks Management.
 ![Screenshot 2021-12-13 231702](https://user-images.githubusercontent.com/61386568/145862786-6dc13f1c-dc29-4709-b7a6-d1dd31741ade.jpg)
 <br />
 ![Screenshot 2021-12-13 232350](https://user-images.githubusercontent.com/61386568/145863408-00a28e9d-0def-46fc-9829-2659f3e6901b.jpg)
 <br />
 Student Module online exam system :
 <br />
-Login.
+1.Login.
 <br />
-SignUp.
+2.SignUp.
 <br />
-Take Exam.
+3.Take Exam.
 <br />
-Reports.
+4.Reports.
 <br />
-Profile Management.
+5.Profile Management.
 <br />
-Result view.
+6.Result view.
 <br />
 ![Screenshot 2021-12-13 232036](https://user-images.githubusercontent.com/61386568/145863421-595cf21d-6725-409b-8525-2a0068e41425.jpg)
