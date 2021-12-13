@@ -33,3 +33,17 @@ Student Module online exam system :
 6.Result view.
 <br />
 ![Screenshot 2021-12-13 232036](https://user-images.githubusercontent.com/61386568/145863421-595cf21d-6725-409b-8525-2a0068e41425.jpg)
+![Screenshot 2021-12-13 234050](https://user-images.githubusercontent.com/61386568/145865711-c9dc8a2c-077b-4f1b-b3f3-5f1157a7ab4c.jpg)
+<br />
+Teacher Module online exam system :
+<br />
+1.Login.
+<br />
+2.SignUp.
+<br />
+3.Add Courses/Delete Courses
+<br />
+4.Add Quwstions/Delete Questions
+<br />
+![Screenshot 2021-12-13 233751](https://user-images.githubusercontent.com/61386568/145866494-9fbb435f-dc43-442e-9cfa-fc75d4e1243f.jpg)
+
